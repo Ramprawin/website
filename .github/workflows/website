@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CULTZ'2024 Registration</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>CULTZ'2024</h1>
+    <nav>
+      <a href="#dancing">Dancing</a>
+      <a href="#singing">Singing</a>
+      <a href="#startmusic">Start Music</a>
+      <a href="#drama">Drama</a>
+      <a href="#specialevents">Special Events</a>
+    </nav>
+  </header>
+  <section id="hero">
+    <h2>March 15th & 16th - Unleash your talent!</h2>
+    <img src="hero-image.jpg" alt="CULTZ'2024 banner image">
+  </section>
+  <section id="events">
+    <h2>Event Categories</h2>
+    <ul>
+      <li id="dancing"><h3>Dancing</h3><p>Show off your moves in various dance styles!</p></li>
+      <li id="singing"><h3>Singing</h3><p>Let your voice be heard! Compete in solo or group singing.</p></li>
+      <li id="startmusic"><h3>Start Music</h3><p>Are you a budding musician? Showcase your original compositions!</p></li>
+      <li id="drama"><h3>Drama</h3><p>Bring your stories to life through acting and performance.</p></li>
+      <li id="specialevents"><h3>Special Events</h3><p>Stay tuned for exciting surprise competitions!</p></li>
+    </ul>
+  </section>
+  <footer>
+    <p>If any Queries : Contact : 8939475511</p>
+  </footer>
+</body>
+</html>
 
