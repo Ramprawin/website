@@ -1,0 +1,43 @@
+body{
+    background-image: url(background.jpg);
+    background-size:cover;
+    
+
+}
+ul{
+    list-style-type:none;
+    margin: 100px top ;
+    padding: 100;
+    overflow:visible;
+
+    justify-content: center;
+    display: flex;
+}
+li{
+    float:left;
+}
+li a{
+    display: flex;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+li a:hover{
+    background-color: rgb(1, 136, 239);
+
+}
+.active{
+    background-color: black
+}
+marquee{
+    font-size: xx-large;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+    color: azure;
+}
+.devika{
+    color: azure;
+    font-size: 2cm;
+}
